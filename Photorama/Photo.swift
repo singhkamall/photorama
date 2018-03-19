@@ -20,5 +20,4 @@ class Photo {
         self.dateTaken = dateTaken
         self.photoID = photoID
     }
-    
 }
